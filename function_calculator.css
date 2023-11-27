@@ -1,0 +1,71 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #0a0a0a;
+    color: whitesmoke; */
+}
+
+.function {
+    /* border: 2px solid red; */
+    margin: 20px auto;
+    padding-left: 30%;
+    font-size: 20px;
+
+}
+
+.input-lable {
+    /* border: 2px solid green; */
+    padding: 15px 75px;
+}
+
+.input-lable #demo1 {
+    font-size: 30px;
+    /* border: 2px solid yellow; */
+    padding: 2px 15px;
+}
+
+.input-lable #num {
+    width: 15rem;
+    height: 2rem;
+    color: black;
+    /* border: 2px solid yellow; */
+    padding-top: 7px;
+    padding-left: 5px;
+    margin-left: 5px;
+    font-size: 25px;
+}
+
+.butt {
+    /* border: 2px solid orangered; */
+    display: flex;
+    justify-content: space-evenly;
+    /* outline: 1px solid red; */
+}
+
+.butt #demo2,
+#demo3,
+#demo4,
+#demo5,
+#demo6,
+#demo7 {
+
+    height: 56px;
+    border: 0;
+    outline: none;
+    color: white;
+    background-color: #0000ffa2;
+    border-radius: 6px;
+    cursor: pointer;
+    /* margin-left: 2rem; */
+    padding: 4px 14px;
+    font-size: 12px;
+}
+
+.output {
+    /* border: 2px solid lightseagreen; */
+    padding: 15px 75px;
+    display: flex;
+    font-size: 20px;
+    margin-top: 2.5rem;
+    /* outline: 1px solid red; */
+}
